@@ -3,5 +3,55 @@
     <head>
 
 p{
-   color: blu  
+
 }
+   
+  
+/*debug style*/ 
+/**{
+  outline: 1px solid black;
+ } */  
+ 
+ header{
+    background-image: url(./img/pattern.png);
+    background-size: contain;
+    background-color:#4EA0FF;
+ }
+ header img{
+    width: 150px;
+    height: 200px;
+    display: block;
+ }
+
+ .booleaner-link{
+    text-decoration: none;
+    color:#4EA0FF
+
+
+ }
+
+ .author_info{
+    color: lightslategray;
+
+ }
+ .author_info{
+    font: size 12px;
+ }
+  h1{
+    margin: 20px 0;
+    line-height: 160%;
+  }
+  p{
+    margin: 15 px 0;
+  }
+
+  .tim-info-photo{
+     font-size: 12px;
+     font-weight: bold;
+  }
+  table {
+    background-color: aqua;
+  }
+  table th{
+    text-align:left;
+  }
