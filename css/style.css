@@ -1,11 +1,4 @@
-    <head>
-         <style type="text/css"</style>
-    <head>
 
-p{
-
-}
-   
   
 /*debug style*/ 
 /**{
@@ -51,7 +44,17 @@ p{
   }
   table {
     background-color: aqua;
+    
   }
   table th{
     text-align:left;
   }
+  table thead th{
+   background-color: #21ABE4;
+   color:white;
+  
+  }
+table tbody .tr-blu{
+   color:aqua;
+}
+  
